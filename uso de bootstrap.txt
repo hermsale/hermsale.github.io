@@ -1,0 +1,21 @@
+http://www.tutorialesprogramacionya.com/cssya/bootstrapya/detalleconcepto.php?codigo=121&punto=6&inicio=0
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4"  style="background-color:#aaa">
+        <h1>Columna 1</h1>
+        <p>Esto es una prueba de bootstrap.</p>
+      </div>
+      <div class="col-lg-4"  style="background-color:#bbb">
+        <h1>Columna 2</h1>
+        <p>Esto es una prueba de bootstrap.</p>
+      </div>
+      <div class="col-lg-4"  style="background-color:#ccc">
+        <h1>Columna 3</h1>
+        <p>Esto es una prueba de bootstrap.</p>
+      </div>
+    </div>
+  </div>
+
+para trabajar con contenedores, si o si tiene que habner un row. 
+luego tenemos las columnas, en este caso son 3 de 4. siempre tiene que sumar 12. 

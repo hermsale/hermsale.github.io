@@ -1,0 +1,11 @@
+body {
+  background-color: #008FBF;
+}
+
+#columna1{
+  background-color: #ffffff;
+}
+
+span{ // al ser una etiqueta no lleva nada previo solo span
+  font-size: 20px;
+}
